@@ -1,0 +1,24 @@
+{
+  "name": "hakamatata",
+  "version": "1.0.0",
+  "description": "math tests",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtanasRaykovPapucharov/hakamatata-deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtanasRaykovPapucharov/hakamatata-deploy/issues"
+  },
+  "homepage": "https://github.com/AtanasRaykovPapucharov/hakamatata-deploy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "prerender-node": "^3.2.5"
+  }
+}
